@@ -90,6 +90,6 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=[tuusuario]&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=[tuusuario]&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=[KevinJairo]&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=[KevinJairo]&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
