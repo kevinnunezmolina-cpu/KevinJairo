@@ -1,7 +1,7 @@
 # KevinJairo
 # <div align="center">
 
-# ¡Hola mundo! 👋 Soy [Tu Nombre Completo]
+# ¡Hola mundo! 👋 Soy [Kevin Jairo]
 
 ### 🚀 Full-Stack Software Engineer | TypeScript • React • Node.js • Cloud
 
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 Sobre Mí
 
-- 🔭 Actualmente trabajando en **[Nombre del Proyecto o Empresa]**.
+- 🔭 Actualmente trabajando en **[Shopify]**.
 - 🌱 Aprendiendo activamente sobre **[Tecnología nueva, ej. Rust, Docker, Kubernetes]**.
 - 💡 Me apasiona resolver problemas complejos, optimizar el rendimiento web y escribir código limpio y testeable.
 - 💬 Pregúntame sobre **JavaScript, React, Node.js, REST APIs o Arquitectura Frontend**.
@@ -57,7 +57,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">📱 [Nombre del Proyecto 1]</h3>
+      <h3 align="center">📱 [Web de ropa GymShark]</h3>
       <p align="center">
         Descripción concisa del proyecto y qué valor aporta a los usuarios finales.
       </p>
@@ -70,7 +70,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">⚡ [Nombre del Proyecto 2]</h3>
+      <h3 align="center">⚡ [Aplicación de Tatuajes]</h3>
       <p align="center">
         Descripción concisa del segundo proyecto destacando sus características técnicas.
       </p>
